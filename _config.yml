@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeongho Choi"
+title                    : "Dongwook Kim (MSW, MA, LGSW)"
 title_separator          : "-"
-name                     : &name "Jeongho Choi"
+name                     : &name "Dongwook Kim"
 description              : &description "personal description"
 url                      : https://Dongwook-Thomas-Kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jeongho-Choi/Jeongho-Choi.github.io"
+repository               : "Dongwook-Thomas-Kim/Dongwook-Thomas-Kim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_RtV-CIAAAAJ&hl=en"
-  email            : "jeonghochoiacademic@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Jeongho-Choi-6?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=GLqa3LQAAAAJ&inst=1960582506653781529"
+  email            : "kim.dwt@asu.edu"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jeongho-Choi"
+  github           : "Dongwook-Thomas-Kim"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8060-7907"
+  orcid            : "https://orcid.org/0009-0004-6654-9730"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
