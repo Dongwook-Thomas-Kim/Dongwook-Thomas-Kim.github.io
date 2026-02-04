@@ -18,7 +18,7 @@ intersectional health equity lens, my work traces the stigma dynamics that struc
 Methodologically, I use a range of quantitative and qualitative approaches, including causal inference and ethnography. I also conduct quality improvement work as part of program evaluation, translating evaluation questions 
 into practical measures and actionable feedback for service settings. In addition, I leverage computational social science techniques such as quantitative text analysis (e.g., sentiment analysis and topic modeling).
 
-I hold an MSW from University of Minnesota - Twin Cities and an MA in Conflict, Security and Development from King's College London, supported by the Chevening Scholarship from the Foreign, Commonwealth & Development Office. 
+I hold an MSW from University of Minnesota - Twin Cities and an MA in Conflict, Security and Development from King's College London, supported by the Chevening Scholarship from the Foreign & Commonwealth Office. 
 I earned my BA in English and Political Science from Korea University in Seoul, South Korea, and later completed a second bachelor’s degree in Statistics and Data Science at Korea National Open University.
 
 Prior to pursuing social work education and scholarship, I worked with global nonprofit organizations in child protection and program evaluation, including roles as a child protection officer in South Sudan (2012–2013), a 
