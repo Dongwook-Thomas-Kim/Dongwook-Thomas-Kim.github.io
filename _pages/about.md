@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeongho Choi"
+title: "Dongwook Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a [postdoctoral researcher](https://www.ipw.uni-hannover.de/de/) in the field of Computational Social Science at the Institute of Political Science, Leibniz University Hannover, Germany.
+Hi. My name is Dongwook Kim, and I'm a Doctoral Candidate in Social Work at Arizona State University. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience building in social work settings and within public health establishments in relation to HIV/AIDS.
 
-My book project, <strong>*Substantive Political Representation and Public Support for Populism*</strong>, examines how deficiencies in substantive representation of citizens’ interests foster support for populist parties, and how this relationship varies depending on individuals’ conceptions and support for democracy.
+My dissertation, <strong>*Stigma Trajectories and the Social Ecology of Living with HIV: The Role of Generational Experience in Navigating Health and Information*</strong>, examines how HIV-related stigma shapes health information management, and how these pathways vary across the life course. Grounded in a communication framework of information management (how people seek, manage, or avoid information to regulate uncertainty) and an intersectional health equity lens, my work traces the stigma dynamics that structure chronic illness management.
 
-Broadly, my research investigates how political representation and political rhetoric—from both elites and the media—shape public support for populism, perceptions of democracy, and processes of democratic backsliding. 
-I focus on three interrelated areas: 1) How substantive policy representation influences populist support across regional contexts, 2) How citizens’ understandings of democracy condition their support for populism and affect democratic resilience, and 3) How elite and media rhetoric strategically shapes public opinion.
+Methodologically, I employ a range of quantitative and qualitative approaches, including causal inference methods, ethnography, and quality imporvement (QI:program evaluation). Additionally, I leverage computational science techniques, including quantiative text analysis (e.g., sentiment analysis, topic modeling). 
 
-Methodologically, I employ a range of quantitative approaches, including multilevel modeling, computational text analysis, and machine learning.
+I hold an MSW from University of Minnesota - Twin Cities and an MA in Conflict, Security and Development from King's College London, supported by the Chevening Scholarship from the Foreign, Commonwealth & Development Office. I earned my BA in English and Political Science from Korea University in Seoul, South Korea, and later completed a second bachelor’s degree in Statistics and Data Science at Korea National Open University.
 
-My research has appeared in journals such as *Democratization*, *Political Science Research and Methods*, *Journal of Contemporary European Studies*, and *Social Science Quarterly*.
-
-I hold a Ph.D. in Political Science from the University of Iowa in 2025, as well as an M.A. (Awarded Excellent Master’s Thesis) and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.
+Prior to pursuing social work education and scholarship, I worked with global nonprofit organizations in child protection and program evaluation, including roles as a child protection officer in South Sudan (2012–2013), a program evaluation lead across Nepal, Tanzania, and Ethiopia (2014–2020), and a country manager in Rwanda (2016–2018). Drawing on more than 13 years of community health and human service practice, I bring an applied, field-informed perspective to community-engaged research and equity-focused scholarship.
 
 My CV can be found [here.](https://www.dropbox.com/scl/fi/gani0alvn46hd7on7ooza/Jeongho_Choi_cv.pdf?rlkey=wlnelr7ls8h7iv6q9k82nuw3x&st=n7fq0u3k&dl=0)
