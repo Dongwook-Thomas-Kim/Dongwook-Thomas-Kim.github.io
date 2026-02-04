@@ -34,7 +34,7 @@ Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. *Social determinan
 
 Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. *Social technology use and social engagement: A stratified analysis of White, Black, and Hispanic older adults*. Manuscript under review at *Journal of Social Service Research*.
 
-## Selected Conference Proccedings
+## Selected Conference Proceedings
 
 **Kim, D.**, & Marsiglia, F. (2026, Apr). *Stigma dynamics in HIV care: A SEM exploration of uncertainty, self-efficacy, and life-course empowerment*. Oral presentation at the European Conference for Social Work Research 2026, Aberdeen, Scotland. 
 
