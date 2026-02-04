@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dongwook Kim (MSW, MA, LGSW)"
+title                    : "Dongwook Kim"
 title_separator          : "-"
 name                     : &name "Dongwook Kim"
 description              : &description "personal description"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/dongwook-kim-thomas"
+  linkedin         : "https://www.linkedin.com/in/dongwook-kim-thomas"
   orcid            : "https://orcid.org/0009-0004-6654-9730"
   pinterest        :
   soundcloud       :
