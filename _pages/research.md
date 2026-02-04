@@ -5,56 +5,47 @@ permalink: /research/
 author_profile: no
 ---
 
-## Peer-reviewed Publications
-Ma, Haofeng and **Jeongho Choi**. Forthcoming. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Personality Traits and Its Impact on Political Trust.” in *Political Communication, Congress and the Presidency: The Year in C-SPAN Archives Research*, Volume 11. Purdue University Press (Corresponding)
+## Peer-Reviewed Publications
+**Kim, D.**, Peri, A., & Marker, N. (2025). Leveraging clinical decision support to improve depression screening and follow-up: Insights from a quality improvement case study. *BMJ Family Medicine and Community Health, 13*, e003426. https://doi.org/10.1136/fmch-2025-003426
 
-**Choi, Jeongho** and Yujin Julia Jung. Forthcoming. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
+Yoon, Y., Shin, S., **Kim, D.**, & Lee, H. Y. (2025). Comparing media and law enforcement reports on anti-Asian hate incidents during COVID-19: Data visualization approach. *JMIR Formative Research, 9*, Article e70881. https://doi.org/10.2196/70881
 
-Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. 2025. “[Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.](https://doi.org/10.1017/psrm.2025.10074)” *Political Science Research and Methods*. (Corresponding)
+Lee, H. Y., Kim, J., Yoon, Y. J., **Kim, D.**, & Chipalo, E. (2025). Internet use and depressive symptoms among older adults in the U.S.: Unraveling the differences by gender. *Journal of Applied Gerontology. 44*(9), 1472–1482. https://doi.org/10.1177/07334648241311651
 
-**Choi, Jeongho**. 2025. "[Evolving Populist Rhetoric: How Public Approval Shapes its Employment.](https://doi.org/10.1080/14782804.2025.2491400)" *Journal of Contemporary European Studies*, 33(3): 1048-1063. 
+**Kim, D.**, Yoon, Y. J., Cosenzo, L. G., & Lee, H. Y. (2024). Rural Alabamians’ unmet medical needs: Rethinking the roles of online health information seeking behavior. *Journal of Racial and Ethnic Health Disparities, 12*(6), 4134–4143. https://doi.org/10.1007/s40615-024-02207-6 
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2025. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization*, 32(1): 76-95.
+Lee, L. H., Yoon, Y. J., **Kim, D.**, Noh, H., Jones, S., & Lee, H. Y. (2023). Perceived transportation barriers moderate the association between depressive symptoms and household transportation use. *Journal of Transport & Health, 33*, 101713. https://doi.org/10.1016/j.jth.2023.101713 
 
-Woo, Byung-Deuk and **Jeongho Choi**. 2025. "[The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries.](https://doi.org/10.1177/21582440251335377)" *Sage Open*, 15(2). (Corresponding)
+Lim, J., & **Kim, D.** (2020). Measuring the professional development needs for technical and vocational education and training staff in Nepal: A look at teachers’ perspectives. *Journal of Practical Engineering Education, 12*, 163-176. https://dx.doi.org/10.14702/JPEE.2020.163 (Corresponding)
 
-Binici, Simal, **Jeongho Choi**, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management*, 33. (Authors in alphabetical order)
-
-Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and **Jeongho Choi**. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly*, 105: 1493-1504.
-
-Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries.](https://doi.org/10.1177/01979183231225941)" *International Migration Review*. (Corresponding)
-
-Woo, Byung-deuk and **Jeongho Choi**. 2022. “[The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria.](https://kiss.kstudy.com/Detail/Ar?key=3997354)” *Comparative Democratic studies*, 18(2): 5-28. (Corresponding)
-
-**Choi, Jeongho** and Byung-deuk Woo. 2021. "[The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016.](https://kiss.kstudy.com/Detail/Ar?key=3926611)" *Social Science Studies*, 29(2): 76-125.
+Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher education programme on career preference and job satisfaction: Evidence from Rwanda schoolteachers. *The Journal of Korea Teacher Education, 36*, 151-177. https://dx.doi.org/10.24211/tjkte.2019.36.4.151 (in Korean)
 
 ## Manuscripts under Review
 
-Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries.” (Corresponding; R&R)
+**Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. *Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States*. Manuscript under review at *Clinical Infectious Diseases*.
 
-**Choi, Jeongho**.“Public Support for Democracy and Different Patterns of Democratic Backsliding.”
+Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. *Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross-sectional study in rural Alabama*. Manuscript under review at *Transportation Research Interdisciplinary Perspectives*. 
 
-**Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
+Lee, H. Y., Lee, L., Yoon, Y. J., **Kim, D.**, Gong, J., & Jones, S. *Determinants of perceived transportation barriers in accessing opioid-related services among residents of Alabama's Black Belt*. Manuscript under review at *Community Mental Health Journal*.
 
-Ma, Haofeng and **Jeongho Choi**. "Speaking the State: How Educational Language Shapes Political Support" (Corresponding)
+Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. *Social determinants of health and community needs for opioid-related services among rural Alabama residents*. Manuscript under review at *Social Work Research*.
 
-## Working papers
-**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding." (*Ready for Submission*)
+**Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. *Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries*. Manuscript under review at *Journal of Sexual and Gender Diversity in Social Services*. 
 
-Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding; *Ready for Submission*; Received *Best Graduate Student Conference Paper*, Dept of Poli Sci, Univ of Iowa)
+Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. *Social technology use and social engagement: A stratified analysis of White, Black, and Hispanic older adults*. Manuscript under review at *Journal of Social Service Research*.
 
-Yujin Julia Jung and **Jeongho Choi**. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters." (Corresponding)
+## Selected Conference Proccedings
 
-**Choi, Jeongho**. “Does Inclusive Representation Foster Democratic Support?”
+**Kim, D.**, & Marsiglia, F. (2026, Apr). *Stigma dynamics in HIV care: A SEM exploration of uncertainty, self-efficacy, and life-course empowerment*. Oral presentation at the European Conference for Social Work Research 2026, Aberdeen, Scotland. 
 
-**Choi, Jeongho**. “Random Forest and Party Positions’ on Diverse Issues.”
+**Kim, D.**, Coleman, J., Buraik, L., Lowery, C., & Blakey, J. (2026, Jan). *Advancing antiracist social work practice: Racial identity processing groups as a promising tool for transforming the profession*. Oral presentation at the Society for Social Work and Research 30th Annual Conference, Washington D.C.
 
-Choi, Jeongho. *Substantive Political Representation and Public Support for Populism*. (Book Project; Developed from Doctoral Dissertation)
+Ogbonnaya, I., Messing, J., Harty, J., & **Kim, D**. (2026, Jan). *Responding to intimate partner violence within child protective services: Potential barriers and facilitators to implementing the myPlan intervention*. Oral presentation at the Society for Social Work and Research 30th Annual Conference, Washington D.C.
 
-**Choi, Jeongho**, Morten Harmening, Jona-Frederik Baumert, Simone Marsilio and Dominic Nyhuis. “Rallying Around Democracy? Partisan Responses to Political Violence.”
+**Kim, D.**, Peri, A., & Marker, N. (2025, Nov). Evaluating the impact of clinical decision support tools on depression screening and follow-up: A quality improvement study in a community health center. Oral presentation at the 2025 American Public Health Association Annual Meeting & Expo, Washington D.C. 
 
-Marsilio, Simone, Jona-Frederik Baumert, **Jeongho Choi**, Morten Harmening and Dominic Nyhuis. “Improving Ballot Designs: A Conjoint Experiment on Ballot Designs.”
+**Kim, D.** (2025, Oct). *Uncovering Midwestern HIV/AIDS activism: A historical text analysis using topic modeling and sentiment analysis*. Poster Presentation at the 71st Council on Social Work Education Annual Program Meeting, Denver, CO. 
 
-Seo, Heyri, Soojin Lee, and **Jeongho Choi**. "Hate, Fear, and Gender: Why Some Democracies Resist Far-Right Rhetoric While Others Normalize It." (Corresponding)
+**Kim, D.**, Tuyishime, E., Musuhukye, B., & Haight, W. (2025, Jan). *Beyond poverty and violence: Ethnographic insights into the lives of street children in urban Rwanda*. Oral Presentation at the Society for Social Work and Research 29th Annual Conference, Seattle, WA.
 
-**Choi, Jeongho**, Haofeng Ma, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Discontented Citizens and the Stability of Democracy.”
+**Kim, D.** (2024, May). *HIV criminalization and health outcomes: An analytical insight from eight U.S. states*. Poster presented at the 2024 National Conference of Social Work and HIV/AIDS, Lake Buena Vista, FL. 
