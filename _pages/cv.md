@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download the CV.](https://www.dropbox.com/scl/fi/gani0alvn46hd7on7ooza/Jeongho_Choi_cv.pdf?rlkey=wlnelr7ls8h7iv6q9k82nuw3x&st=n7fq0u3k&dl=0) (Last updated)
+[Download the CV.](https://www.dropbox.com/scl/fi/u714ovugw0pkjj01zrnz4/Kim_Dongwook_CV_2026Feb.pdf?rlkey=65vsh53tbg9c8lzdod40ypf2f&st=ti09jr54&dl=0) (Last updated)
