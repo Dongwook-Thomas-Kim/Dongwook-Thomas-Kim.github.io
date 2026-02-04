@@ -17,11 +17,11 @@ author_profile: true
     object-fit: contain; 
     background-color: #f9f9f9; /* 여백을 아주 연한 회색으로 채워 깔끔하게 표시 */
     border-radius: 10px; 
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
   }
   
-  .caption { font-size: 0.82em; margin-top: 8px; line-height: 1.4; color: #333; }
-  h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; }
+  .caption { font-size: 0.88em; margin-top: 10px; line-height: 1.5; color: #222; }
+  h2 { border-bottom: 2px solid #eee; padding-bottom: 12px; margin-top: 50px; }
 </style>
 
 ## Community Health Services
