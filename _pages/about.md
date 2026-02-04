@@ -18,4 +18,4 @@ I hold an MSW from University of Minnesota - Twin Cities and an MA in Conflict, 
 
 Prior to pursuing social work education and scholarship, I worked with global nonprofit organizations in child protection and program evaluation, including roles as a child protection officer in South Sudan (2012–2013), a program evaluation lead across Nepal, Tanzania, and Ethiopia (2014–2020), and a country manager in Rwanda (2016–2018). Drawing on more than 13 years of community health and human service practice, I bring an applied, field-informed perspective to community-engaged research and equity-focused scholarship.
 
-My CV can be found [here.](https://www.dropbox.com/scl/fi/gani0alvn46hd7on7ooza/Jeongho_Choi_cv.pdf?rlkey=wlnelr7ls8h7iv6q9k82nuw3x&st=n7fq0u3k&dl=0)
+My CV can be found [here.](https://www.dropbox.com/scl/fi/u714ovugw0pkjj01zrnz4/Kim_Dongwook_CV_2026Feb.pdf?rlkey=65vsh53tbg9c8lzdod40ypf2f&st=3lvothqc&dl=0)
