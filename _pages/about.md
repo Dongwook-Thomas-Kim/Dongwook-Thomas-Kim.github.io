@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongwook Kim"
+title: "Dongwook Kim, MSW, MA, LGSW"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
