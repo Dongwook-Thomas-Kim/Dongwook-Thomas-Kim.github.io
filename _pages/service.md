@@ -32,7 +32,7 @@ author_profile: true
       <img src="/images/minnesota-council_crop.jpg">
       <div class="caption">
         <strong>Minnesota Council for HIV Care and Prevention</strong><br>
-        Elected Council Member (2024-2025)<br>
+        (2024-2025)<br>
         <em>Minneapolis, MN</em>
       </div>
     </td>
@@ -40,7 +40,7 @@ author_profile: true
       <img src="/images/cuhcc.jpg">
       <div class="caption">
         <strong>Community-University Health Care Center</strong><br>
-        Care Coordinator (2023-2024)<br>
+        (2023-2024)<br>
         <em>Minneapolis, MN</em>
       </div>
     </td>
@@ -48,7 +48,7 @@ author_profile: true
       <img src="/images/westward.jpg">
       <div class="caption">
         <strong> ASU Collaborative at Westward Ho (Arizona State University)</strong><br>
-        Social Worker (2024-present)<br>
+        (2024-present)<br>
         <em>Phoenix, AZ</em>
       </div>
     </td>
