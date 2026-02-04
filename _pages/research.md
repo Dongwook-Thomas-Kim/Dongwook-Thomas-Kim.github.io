@@ -6,19 +6,19 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
-**Kim, D.**, Peri, A., & Marker, N. (2025). Leveraging clinical decision support to improve depression screening and follow-up: Insights from a quality improvement case study. *BMJ Family Medicine and Community Health, 13*, e003426. https://doi.org/10.1136/fmch-2025-003426
+**Kim, D.**, Peri, A., & Marker, N. (2025). Leveraging clinical decision support to improve depression screening and follow-up: Insights from a quality improvement case study. *BMJ Family Medicine and Community Health, 13*, e003426. <https://doi.org/10.1136/fmch-2025-003426>
 
-Yoon, Y., Shin, S., **Kim, D.**, & Lee, H. Y. (2025). Comparing media and law enforcement reports on anti-Asian hate incidents during COVID-19: Data visualization approach. *JMIR Formative Research, 9*, Article e70881. https://doi.org/10.2196/70881
+Yoon, Y., Shin, S., **Kim, D.**, & Lee, H. Y. (2025). Comparing media and law enforcement reports on anti-Asian hate incidents during COVID-19: Data visualization approach. *JMIR Formative Research, 9*, Article e70881. <https://doi.org/10.2196/70881>
 
-Lee, H. Y., Kim, J., Yoon, Y. J., **Kim, D.**, & Chipalo, E. (2025). Internet use and depressive symptoms among older adults in the U.S.: Unraveling the differences by gender. *Journal of Applied Gerontology. 44*(9), 1472–1482. https://doi.org/10.1177/07334648241311651
+Lee, H. Y., Kim, J., Yoon, Y. J., **Kim, D.**, & Chipalo, E. (2025). Internet use and depressive symptoms among older adults in the U.S.: Unraveling the differences by gender. *Journal of Applied Gerontology. 44*(9), 1472–1482. <https://doi.org/10.1177/07334648241311651>
 
-**Kim, D.**, Yoon, Y. J., Cosenzo, L. G., & Lee, H. Y. (2024). Rural Alabamians’ unmet medical needs: Rethinking the roles of online health information seeking behavior. *Journal of Racial and Ethnic Health Disparities, 12*(6), 4134–4143. https://doi.org/10.1007/s40615-024-02207-6 
+**Kim, D.**, Yoon, Y. J., Cosenzo, L. G., & Lee, H. Y. (2024). Rural Alabamians’ unmet medical needs: Rethinking the roles of online health information seeking behavior. *Journal of Racial and Ethnic Health Disparities, 12*(6), 4134–4143. <https://doi.org/10.1007/s40615-024-02207-6> 
 
-Lee, L. H., Yoon, Y. J., **Kim, D.**, Noh, H., Jones, S., & Lee, H. Y. (2023). Perceived transportation barriers moderate the association between depressive symptoms and household transportation use. *Journal of Transport & Health, 33*, 101713. https://doi.org/10.1016/j.jth.2023.101713 
+Lee, L. H., Yoon, Y. J., **Kim, D.**, Noh, H., Jones, S., & Lee, H. Y. (2023). Perceived transportation barriers moderate the association between depressive symptoms and household transportation use. *Journal of Transport & Health, 33*, 101713. <https://doi.org/10.1016/j.jth.2023.101713> 
 
-Lim, J., & **Kim, D.** (2020). Measuring the professional development needs for technical and vocational education and training staff in Nepal: A look at teachers’ perspectives. *Journal of Practical Engineering Education, 12*, 163-176. https://dx.doi.org/10.14702/JPEE.2020.163 (Corresponding)
+Lim, J., & **Kim, D.** (2020). Measuring the professional development needs for technical and vocational education and training staff in Nepal: A look at teachers’ perspectives. *Journal of Practical Engineering Education, 12*, 163-176. <https://dx.doi.org/10.14702/JPEE.2020.163> (Corresponding)
 
-Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher education programme on career preference and job satisfaction: Evidence from Rwanda schoolteachers. *The Journal of Korea Teacher Education, 36*, 151-177. https://dx.doi.org/10.24211/tjkte.2019.36.4.151 (Corresponding)
+Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher education programme on career preference and job satisfaction: Evidence from Rwanda schoolteachers. *The Journal of Korea Teacher Education, 36*, 151-177. <https://dx.doi.org/10.24211/tjkte.2019.36.4.151> (Corresponding)
 
 ## Manuscripts under Review
 
