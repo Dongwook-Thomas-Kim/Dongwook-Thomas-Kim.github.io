@@ -18,7 +18,7 @@ Lee, L. H., Yoon, Y. J., **Kim, D.**, Noh, H., Jones, S., & Lee, H. Y. (2023). P
 
 Lim, J., & **Kim, D.** (2020). Measuring the professional development needs for technical and vocational education and training staff in Nepal: A look at teachers’ perspectives. *Journal of Practical Engineering Education, 12*, 163-176. https://dx.doi.org/10.14702/JPEE.2020.163 (Corresponding)
 
-Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher education programme on career preference and job satisfaction: Evidence from Rwanda schoolteachers. *The Journal of Korea Teacher Education, 36*, 151-177. https://dx.doi.org/10.24211/tjkte.2019.36.4.151 (in Korean)
+Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher education programme on career preference and job satisfaction: Evidence from Rwanda schoolteachers. *The Journal of Korea Teacher Education, 36*, 151-177. https://dx.doi.org/10.24211/tjkte.2019.36.4.151 (Corresponding)
 
 ## Manuscripts under Review
 
