@@ -20,17 +20,10 @@ author_profile: true
   <tr>
     <td style="width: 50%;">
       <img src="/images/minnesota-council_crop.jpg" />
-      <div class="caption">
-        **Organization:** Minnesota Council for HIV Care and Prevention<br>
-        **Role:** Elected Council Member (2024-2025)
-      </div>
     </td>
     <td style="width: 50%;">
       <img src="/images/cuhcc.jpg" />
-      <div class="caption">
-        **Organization:** Community-University Health Care Center<br>
-        **Role:** Care Coordinator (2023-2024)
-      </div>
+
     </td>
   </tr>
 </table>
