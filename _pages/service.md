@@ -40,7 +40,7 @@ author_profile: true
       <img src="/images/westward.jpg">
       <div class="caption">
         <strong>Westward Ho (Arizona)</strong><br>
-        [Role Name]<br>
+        Social Worker (2024-present) <br>
         <em>Phoenix, AZ</em>
       </div>
     </td>
