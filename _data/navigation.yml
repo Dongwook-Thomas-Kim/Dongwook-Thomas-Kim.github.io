@@ -7,8 +7,10 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+- title: "Service"      # 새로 추가
+    url: /service/       # 아까 설정한 permalink와 일치해야 함
     
   - title: "CV"
     url: /cv/
-    
