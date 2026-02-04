@@ -7,9 +7,10 @@ author_profile: true
 
 
 <style>
-  .service-grid { width: 100%; border-collapse: collapse; border: none; margin-bottom: 30px; }
-  .service-grid td { vertical-align: top; border: none; padding: 10px; }
-  .service-grid img { width: 100%; height: 180px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  .service-grid { width: 100%; border-collapse: collapse; border: none; margin-bottom: 20px; }
+  .service-grid td { vertical-align: top; border: none; padding: 10px; width: 25%; }
+  /* object-fit: contain으로 수정하여 로고가 잘리지 않게 함 */
+  .service-grid img { width: 100%; height: 180px; object-fit: contain; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
   .caption { font-size: 0.85em; margin-top: 8px; line-height: 1.4; color: #333; }
   h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; }
 </style>
