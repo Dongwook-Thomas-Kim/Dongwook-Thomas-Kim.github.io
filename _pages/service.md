@@ -13,10 +13,10 @@ author_profile: true
   /* 모든 이미지가 잘리지 않고 전체 다 나오도록 contain 설정 */
   .service-grid img { 
     width: 100%; 
-    height: 180px; 
+    height: 220px; 
     object-fit: contain; 
     background-color: #f9f9f9; /* 여백을 아주 연한 회색으로 채워 깔끔하게 표시 */
-    border-radius: 8px; 
+    border-radius: 10px; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
   }
   
