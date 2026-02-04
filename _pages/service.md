@@ -6,10 +6,65 @@ author_profile: true
 ---
 
 
-<img src="/images/cuhcc.jpg" width="200" style="float: left; margin-right: 15px;" />
+<style>
+  .service-grid { width: 100%; border-collapse: collapse; border: none; margin-bottom: 30px; }
+  .service-grid td { vertical-align: top; border: none; padding: 10px; }
+  .service-grid img { width: 100%; height: 180px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  .caption { font-size: 0.85em; margin-top: 8px; line-height: 1.4; color: #333; }
+  h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; }
+</style>
 
-**Team:** Integrated Behavioral Health Team  
-**Organization:** Community-University Health Care Center  
-**Period:** 2023-2024  
+## Service in Community Health
 
-<div style="clear: both;"></div>
+<table class="service-grid">
+  <tr>
+    <td style="width: 50%;">
+      <img src="/images/minnesota-council_crop.jpg" />
+      <div class="caption">
+        **Organization:** Minnesota Council for HIV Care and Prevention<br>
+        **Role:** Elected Council Member (2024-2025)
+      </div>
+    </td>
+    <td style="width: 50%;">
+      <img src="/images/cuhcc.jpg" />
+      <div class="caption">
+        **Organization:** Community-University Health Care Center<br>
+        **Role:** Care Coordinator (2023-2024)
+      </div>
+    </td>
+  </tr>
+</table>
+
+## Rwanda (ChildFund Rwanda / Country Manager)
+
+<table class="service-grid">
+  <tr>
+    <td style="width: 25%;">
+      <img src="/images/umuganda_rwanda.jpg" />
+    </td>
+    <td style="width: 25%;">
+      <img src="/images/rwanda3.jpg" />
+    </td>
+    <td style="width: 25%;">
+      <img src="/images/enumerator_rwanda.jpg" />
+    </td>
+    <td style="width: 25%;">
+      <img src="/images/enumerator_rwanda2.jpg" />
+    </td>
+  </tr>
+</table>
+
+## Nepal (ChildFund Korea / Program Coordinator)
+
+<table class="service-grid">
+  <tr>
+    <td style="width: 25%;">
+      <img src="/images/nepal2.jpg" />
+    </td>
+    <td style="width: 25%;">
+      <img src="/images/nepal1.jpg" />
+    </td>
+    <td style="width: 25%;"></td>
+    <td style="width: 25%;"></td>
+  </tr>
+</table>
