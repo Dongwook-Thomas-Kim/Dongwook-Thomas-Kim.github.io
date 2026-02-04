@@ -38,7 +38,7 @@ Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. *Social technology use and
 
 **Kim, D.**, & Marsiglia, F. (2026, Apr). *Stigma dynamics in HIV care: A SEM exploration of uncertainty, self-efficacy, and life-course empowerment*. Oral presentation at the European Conference for Social Work Research 2026, Aberdeen, Scotland. 
 
-**Kim, D.**, Coleman, J., Buraik, L., Lowery, C., & Blakey, J. (2026, Jan). *Advancing antiracist social work practice: Racial identity processing groups as a promising tool for transforming the profession*. Oral presentation at the Society for Social Work and Research 30th Annual Conference, Washington D.C.
+**Kim, D.**, Coleman, J., Buraik, L., Lowery, C., & Blakey, J. (2026, Jan). *Advancing anti-racist social work practice: Racial identity processing groups as a promising tool for transforming the profession*. Oral presentation at the Society for Social Work and Research 30th Annual Conference, Washington D.C.
 
 Ogbonnaya, I., Messing, J., Harty, J., & **Kim, D**. (2026, Jan). *Responding to intimate partner violence within child protective services: Potential barriers and facilitators to implementing the myPlan intervention*. Oral presentation at the Society for Social Work and Research 30th Annual Conference, Washington D.C.
 
