@@ -59,10 +59,14 @@ author_profile: true
 
 <table class="service-grid">
   <tr>
-    <td style="width: 25%;"><img src="/images/umuganda_rwanda.jpg"></td>
-    <td style="width: 25%;"><img src="/images/rwanda3.jpg"></td>
-    <td style="width: 25%;"><img src="/images/enumerator_rwanda.jpg"></td>
-    <td style="width: 25%;"><img src="/images/enumerator_rwanda2.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/umuganda_rwanda.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/rwanda3.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/enumerator_rwanda.jpg"></td>
+  </tr>
+  <tr>
+    <td style="width: 33.3%;"><img src="/images/enumerator_rwanda2.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/rwanda5.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/rwanda9.jpg"></td>
   </tr>
 </table>
 
