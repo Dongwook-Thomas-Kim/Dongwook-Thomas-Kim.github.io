@@ -96,7 +96,7 @@ author_profile: true
 </table>
 
 <div style="background-color: #f8f9fa; padding: 20px; border-left: 5px solid #002d72; border-radius: 5px; margin-bottom: 30px;">
-  <h3 style="margin-top: 0; color: #002d72;">The Korean Augmentation to United States Army (KATUSA)</h3>
+  <h3 style="margin-top: 0; color: #002d72;">The Korean Augmentation to the United States Army (KATUSA)</h3>
   <p style="margin-bottom: 5px;"><strong>Sergeant (E-5), Retired </strong></p>
   <p style="font-style: italic; color: #555;">Republic of Korea / United States Army Eighth Army</p>
   <p style="margin-top: 15px; line-height: 1.6;">
