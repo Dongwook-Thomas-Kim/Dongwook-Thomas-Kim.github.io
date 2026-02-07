@@ -83,8 +83,9 @@ author_profile: true
   </tr>
 </table>
 
-## Military Service (2006–2008)
-### KATUSA, US Army 8th Army
+## Military Service
+### KATUSA, U.S. Army 8th Army (Active Duty: 2006–2008)
+### ROK Army Reserve (2008–2014)
 
 <table class="service-grid">
   <tr>
