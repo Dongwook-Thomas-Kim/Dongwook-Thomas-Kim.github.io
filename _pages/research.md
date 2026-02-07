@@ -48,4 +48,18 @@ Ogbonnaya, I., Messing, J., Harty, J., & **Kim, D**. (2026, Jan). *Responding to
 
 **Kim, D.**, Tuyishime, E., Musuhukye, B., & Haight, W. (2025, Jan). *Beyond poverty and violence: Ethnographic insights into the lives of street children in urban Rwanda*. Oral Presentation at the Society for Social Work and Research 29th Annual Conference, Seattle, WA.
 
+Yoon, Y., **Kim, D.**, Shin, S. H., Chandrasekaran, S., Kamibayashi, M., Beckwith, J., & Lee, H. Y. (2025, Jan). *Factors associated with anti-Asian hate incident reporting during COVID-19 pandemic: Comparisons between media and law enforcement data*. Oral Presentation at the Society for Social Work and Research 29th Annual Conference, Seattle, WA. 
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <div style="flex: 1;">
+    <img src="/images/sswr1.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <img src="/images/sswr2.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+<p style="font-size: 0.85em; color: #666; text-align: center; margin-bottom: 30px;">
+  <em>Presenting at SSWR 2025 in Seattle, WA.</em>
+</p>
+
 **Kim, D.** (2024, May). *HIV criminalization and health outcomes: An analytical insight from eight U.S. states*. Poster presented at the 2024 National Conference of Social Work and HIV/AIDS, Lake Buena Vista, FL. 
