@@ -52,10 +52,10 @@ Yoon, Y., **Kim, D.**, Shin, S. H., Chandrasekaran, S., Kamibayashi, M., Beckwit
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <div style="flex: 1;">
-    <img src="/images/sswr1.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/sswr1.jpg" style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
-    <img src="/images/sswr2.jpg" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/sswr2.jpg" style="width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 <p style="font-size: 0.85em; color: #666; text-align: center; margin-bottom: 30px;">
