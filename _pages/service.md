@@ -100,6 +100,6 @@ author_profile: true
   <p style="margin-bottom: 5px;"><strong>Sergeant (E-5), Retired </strong></p>
   <p style="font-style: italic; color: #555;">Republic of Korea / United States Army Eighth Army</p>
   <p style="margin-top: 15px; line-height: 1.6;">
-    Awarded the <strong>Army Commendation Medal (ARCOM)</strong> by the Department of the Army for exceptionally meritorious service. Demonstrated outstanding leadership and cross-cultural communication skills while serving as a vital liaison between ROK and US forces.
+    Awarded the <strong>Army Commendation Medal (ARCOM)</strong> by the U.S. Department of the Army for exceptionally meritorious service. Demonstrated outstanding leadership and cross-cultural communication skills while serving as a vital liaison between ROK and US forces.
   </p>
 </div>
