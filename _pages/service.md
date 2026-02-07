@@ -69,6 +69,11 @@ author_profile: true
     <td style="width: 33.3%;"><img src="/images/rwanda5.jpg"></td>
     <td style="width: 33.3%;"><img src="/images/rwanda9.jpg"></td>
   </tr>
+    <tr>
+    <td style="width: 33.3%;"><img src="/images/rwanda11.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/rwanda12.jpg"></td>
+    <td style="width: 33.3%;"><img src="/images/rwanda13.jpg"></td>
+  </tr>
 </table>
 
 ## Nepal (2015)
