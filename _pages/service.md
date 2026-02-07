@@ -88,10 +88,10 @@ author_profile: true
 
 <table class="service-grid">
   <tr>
-    <td style="width: 33.3%;"><img src="/images/army0.jpg"></td>
-    <td style="width: 33.3%;"><img src="/images/army1.jpg"></td>
-    <td style="width: 33.3%;"><img src="/images/army2.jpg"></td>
-    <td style="width: 33.3%;"><img src="/images/army3.jpg"></td>
+    <td style="width: 25%;"><img src="/images/army0.jpg"></td>
+    <td style="width: 25%;"><img src="/images/army1.jpg"></td>
+    <td style="width: 25%;"><img src="/images/army2.jpg"></td>
+    <td style="width: 25%;"><img src="/images/army3.jpg"></td>
   </tr>
 </table>
 
