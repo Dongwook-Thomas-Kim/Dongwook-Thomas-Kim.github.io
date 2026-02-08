@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+#About Me
+
 Hi. My name is Dongwook Kim, and I'm a Doctoral Candidate in Social Work at Arizona State University. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience 
 building in social work settings and within public health establishments in relation to HIV/AIDS.
 
