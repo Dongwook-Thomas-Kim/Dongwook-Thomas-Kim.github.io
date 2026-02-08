@@ -22,9 +22,6 @@ into practical measures and actionable feedback for service settings. In additio
 
 I hold an MSW from University of Minnesota - Twin Cities and an MA in Conflict, Security and Development from King's College London, supported by the Chevening Scholarship from the Foreign & Commonwealth Office. 
 I earned my BA in English and Political Science from Korea University in Seoul, South Korea, and later completed a second bachelor’s degree in Statistics and Data Science at Korea National Open University.
-
-<img src="/images/southafrica.jpg"  
-     style="float: right; width: 40%; margin-left: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
      
 Prior to pursuing social work education and scholarship, I worked with global nonprofit organizations in child protection and program evaluation, including roles as a child protection officer in South Sudan (2012–2013), a 
 program evaluation lead across Nepal, Tanzania, and Ethiopia (2014–2020), and a country manager in Rwanda (2016–2018). Drawing on more than 13 years of community health and human service practice, I bring an applied, field-
