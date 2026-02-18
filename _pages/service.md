@@ -48,7 +48,7 @@ author_profile: true
       <img src="/images/sep_rainbow.jpg">
       <div class="caption">
         <strong>Rainbow Health - Syringe Exchange Program </strong><br>
-        (2023-2024)<br>
+        (2024)<br>
         <em>Minneapolis, MN</em>
       </div>
     </td>
