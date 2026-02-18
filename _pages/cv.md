@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download the CV.](https://www.dropbox.com/scl/fi/jsyf15f0da6i1h8kcgcbe/Kim.Dongwook_CV_Feb26-update.pdf?rlkey=qv4ez09yz9kclxw4nv6l45gw4&st=b6h48690&dl=0) (Last updated)
+[Download the CV.](https://www.dropbox.com/scl/fi/wvrpe5hyhd0rtrsoo3ame/Kim.Dongwook_CV_Feb2026_v3.pdf?rlkey=o8lrm6y6tuss9cipqe1j3e30k&st=9i9is55s&dl=0) (Last updated)
