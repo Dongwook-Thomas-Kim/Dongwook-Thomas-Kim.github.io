@@ -40,6 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.page__content h2 {
+.page__content h2,
+.archive__item-body h2,
+.page__inner-wrap h2 {
   color: #00205B !important;
 }
