@@ -6,6 +6,10 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
+Jung, W., Kim, S., **Kim, D.**, Sihombing, A., Tabar, M., & Lee, D. (in press). From crowdsourced data to policy design: Monitoring and forecasting homeless tents. *EPJ Data Science*.
+
+Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. (in press). Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross sectional study in rural Alabama. *Transportation Research Interdisciplinary Perspective*. 
+
 **Kim, D.**, Peri, A., & Marker, N. (2025). Leveraging clinical decision support to improve depression screening and follow-up: Insights from a quality improvement case study. *BMJ Family Medicine and Community Health, 13*, e003426. <https://doi.org/10.1136/fmch-2025-003426>
 
 Yoon, Y., Shin, S., **Kim, D.**, & Lee, H. Y. (2025). Comparing media and law enforcement reports on anti-Asian hate incidents during COVID-19: Data visualization approach. *JMIR Formative Research, 9*, Article e70881. <https://doi.org/10.2196/70881>
