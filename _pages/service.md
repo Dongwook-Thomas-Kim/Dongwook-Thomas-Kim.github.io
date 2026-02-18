@@ -25,10 +25,10 @@ author_profile: true
 </style>
 
 ## Community Health Services (2023-present)
-### Elected Council Member / Care Coordination Team / Social Worker
+### Elected Council Member / Care Coordination Team / Social Worker Volunteer
 <table class="service-grid">
   <tr>
-    <td style="width: 33.3%;">
+    <td style="width: 25.0%;">
       <img src="/images/minnesota-council_crop.jpg">
       <div class="caption">
         <strong>Minnesota Council for HIV Care and Prevention</strong><br>
@@ -36,15 +36,23 @@ author_profile: true
         <em>Minneapolis, MN</em>
       </div>
     </td>
-    <td style="width: 33.3%;">
+    <td style="width: 25.0%;">
       <img src="/images/cuhcc.jpg">
       <div class="caption">
         <strong>Community-University Health Care Center</strong><br>
         (2023-2024)<br>
         <em>Minneapolis, MN</em>
       </div>
+      </td>
+    <td style="width: 25.0%;">
+      <img src="/images/sep_rainbow.jpg">
+      <div class="caption">
+        <strong>Rainbow Health - Syringe Exchange Program </strong><br>
+        (2023-2024)<br>
+        <em>Minneapolis, MN</em>
+      </div>
     </td>
-    <td style="width: 33.3%;">
+    <td style="width: 25.0%;">
       <img src="/images/westward.jpg">
       <div class="caption">
         <strong> ASU Collaborative at Westward Ho (Arizona State University)</strong><br>
