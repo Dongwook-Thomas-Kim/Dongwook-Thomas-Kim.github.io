@@ -6,6 +6,8 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
+Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. (in press). Associations between social technology use and social engagement: A race- and ethnicity-stratified analysis among older adults. *Journal of Social Service Research*.
+
 Jung, W., Kim, S., **Kim, D.**, Sihombing, A., Tabar, M., & Lee, D. (in press). From crowdsourced data to policy design: Monitoring and forecasting homeless tents. *EPJ Data Science*.
 
 Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. (in press). Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross sectional study in rural Alabama. *Transportation Research Interdisciplinary Perspective*. 
