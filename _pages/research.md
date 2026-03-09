@@ -30,15 +30,11 @@ Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher educ
 
 **Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. *Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States*. Manuscript under review at *Clinical Infectious Diseases*.
 
-Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. *Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross-sectional study in rural Alabama*. Manuscript under review at *Transportation Research Interdisciplinary Perspectives*. 
-
 Lee, H. Y., Lee, L., Yoon, Y. J., **Kim, D.**, Gong, J., & Jones, S. *Determinants of perceived transportation barriers in accessing opioid-related services among residents of Alabama's Black Belt*. Manuscript under review at *Community Mental Health Journal*.
 
 Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. *Social determinants of health and community needs for opioid-related services among rural Alabama residents*. Manuscript under review at *Social Work Research*.
 
 **Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. *Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries*. Manuscript under review at *Journal of Sexual and Gender Diversity in Social Services*. 
-
-Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. *Social technology use and social engagement: A stratified analysis of White, Black, and Hispanic older adults*. Manuscript under review at *Journal of Social Service Research*.
 
 ## Selected Conference Proceedings
 
