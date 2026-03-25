@@ -6,11 +6,11 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
-Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. (in press). Associations between social technology use and social engagement: A race- and ethnicity-stratified analysis among older adults. *Journal of Social Service Research*.
+Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. (2026). Associations between social technology use and social engagement: A race- and ethnicity-stratified analysis among older adults. *Journal of Social Service Research*. <https://doi.org/10.1080/01488376.2026.2643587>
 
-Jung, W., Kim, S., **Kim, D.**, Sihombing, A., Tabar, M., & Lee, D. (in press). From crowdsourced data to policy design: Monitoring and forecasting homeless tents. *EPJ Data Science*.
+Jung, W., Kim, S., **Kim, D.**, Sihombing, A., Tabar, M., & Lee, D. (2026). From crowdsourced data to policy design: Monitoring and forecasting homeless tents. *EPJ Data Science*. <https://doi.org/10.1140/epjds/s13688-026-00631-8>
 
-Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. (2026). Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross sectional study in rural Alabama. *Transportation Research Interdisciplinary Perspective*. <https://doi.org/10.1016/j.trip.2026.101893>
+Lee, H. Y., Lee, L. H., **Kim, D.**, Yoon, Y. J., Noh, H., Gong, J., & Jones, S. (2026). Does gender moderate the relationship between depressive symptoms and non-household transportation use? Findings from a cross sectional study in rural Alabama. *Transportation Research Interdisciplinary Perspective, 36. 101893*. <https://doi.org/10.1016/j.trip.2026.101893>
 
 **Kim, D.**, Peri, A., & Marker, N. (2025). Leveraging clinical decision support to improve depression screening and follow-up: Insights from a quality improvement case study. *BMJ Family Medicine and Community Health, 13*, e003426. <https://doi.org/10.1136/fmch-2025-003426>
 
