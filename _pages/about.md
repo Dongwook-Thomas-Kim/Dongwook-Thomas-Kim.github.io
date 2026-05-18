@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongwook Kim, MSW, MA, LGSW"
+title: "Dongwook Kim, PhD, MSW, MA, LGSW"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,9 @@ redirect_from:
 
 ## About Me
 
-Hi. My name is Dongwook Kim, and I'm a Doctoral Candidate in Social Work at Arizona State University. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience 
-building in social work settings and within public health establishments in relation to HIV/AIDS.
+Hi. My name is Dongwook Kim. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience building in social work settings and within public health establishments in relation to HIV/AIDS.
 
-My dissertation, <strong>*Stigma Trajectories and the Social Ecology of Living with HIV: The Role of Generational Experience in Navigating Health and Information*</strong>, examines how HIV-related stigma shapes health 
+My dissertation, <strong>*Stigma Trajectories and the Social Ecology of Living with HIV: Timing of Lives and Health Information Navigation Using Path Analysis*</strong>, examines how HIV-related stigma shapes health 
 information management, and how these pathways vary across the life course. Grounded in a communication framework of information management (how people seek, manage, or avoid information to regulate uncertainty) and an 
 intersectional health equity lens, my work traces the stigma dynamics that structure chronic illness management.
 
@@ -27,4 +26,4 @@ Prior to pursuing social work education and scholarship, I worked with global no
 program evaluation lead across Nepal, Tanzania, and Ethiopia (2014–2020), and a country manager in Rwanda (2016–2018). Drawing on more than 13 years of community health and human service practice, I bring an applied, field-
 informed perspective to community-engaged research and equity-focused scholarship.
 
-My CV can be found [here.](https://www.dropbox.com/scl/fi/adk3x5uiocy6aefr077lj/Kim.Dongwook_CV_Mar2026_v2.pdf?rlkey=q5ejw7x0qmbre6zrxwzxbp9lo&st=5lz1y8n2&dl=0)
+My CV can be found [here.](https://www.dropbox.com/scl/fi/db6qu5wwmbjiywt6parnl/Kim.Dongwook_CV_May2026.pdf?rlkey=mfr161k4gvv6swk1fhoremus4&st=qpeuo9lv&dl=0)
