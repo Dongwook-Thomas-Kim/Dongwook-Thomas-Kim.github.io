@@ -36,8 +36,6 @@ Lee, H. Y., Lee, L., Yoon, Y. J., **Kim, D.**, Gong, J., & Jones, S. *Determinan
 
 Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. *Social determinants of health and community needs for opioid-related services among rural Alabama residents*. Manuscript under review at *Social Work Research*.
 
-**Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. *Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries*. Manuscript under review at *Journal of Sexual and Gender Diversity in Social Services*. 
-
 ## Selected Conference Proceedings
 
 **Kim, D.**, & Marsiglia, F. (2026, Apr). *Stigma dynamics in HIV care: A SEM exploration of uncertainty, self-efficacy, and life-course empowerment*. Oral presentation at the European Conference for Social Work Research 2026, Aberdeen, Scotland. 
