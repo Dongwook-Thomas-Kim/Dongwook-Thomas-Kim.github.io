@@ -6,7 +6,7 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
-**Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. (Accepted). Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries. *Journal of Sexual and Gender Diversity in Social Services*. <http://dx.doi.org/10.1080/29933021.2026.2680113>
+**Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. (Accepted). Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries. *Journal of Sexual and Gender Diversity in Social Services*, 1-24. <https://doi.org/10.1080/29933021.2026.2680113>
 
 Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. (2026). Associations between social technology use and social engagement: A race- and ethnicity-stratified analysis among older adults. *Journal of Social Service Research*. <https://doi.org/10.1080/01488376.2026.2643587>
 
