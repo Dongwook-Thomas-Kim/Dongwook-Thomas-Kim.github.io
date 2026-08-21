@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Hi. My name is Dongwook Kim. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience building in social work settings and within public health establishments in relation to HIV/AIDS.
+Hi. My name is Dongwook Kim. I am an Assistant Professor of Social Work at the University of South Alabama. My research interests primarily lie in the areas of behavioral health, particularly stigma reduction and resilience building in social work settings and within public health establishments in relation to HIV/AIDS.
 
 My dissertation, <strong>*Stigma Trajectories and the Social Ecology of Living with HIV: Timing of Lives and Health Information Navigation Using Path Analysis*</strong>, examines how HIV-related stigma shapes health 
 information management, and how these pathways vary across the life course. Grounded in a communication framework of information management (how people seek, manage, or avoid information to regulate uncertainty) and an 
