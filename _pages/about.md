@@ -25,4 +25,4 @@ Prior to pursuing social work education and scholarship, I worked with global no
 program evaluation lead across Nepal, Tanzania, and Ethiopia (2014–2020), and a country manager in Rwanda (2016–2018). Drawing on more than 13 years of community health and human service practice, I bring an applied, field-
 informed perspective to community-engaged research and equity-focused scholarship.
 
-My CV can be found [here.](https://www.dropbox.com/scl/fi/db6qu5wwmbjiywt6parnl/Kim.Dongwook_CV_May2026.pdf?rlkey=mfr161k4gvv6swk1fhoremus4&st=qpeuo9lv&dl=0)
+My CV can be found [here.](https://www.dropbox.com/scl/fi/lrle06xldpyp3njfw9agi/CV_KimDongwook_USA_Nov26.pdf?rlkey=xuib0piy1kefppt2aebuqj7m2&st=e8zok7a2&dl=0)
