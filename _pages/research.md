@@ -6,6 +6,8 @@ author_profile: no
 ---
 
 ## Peer-Reviewed Publications
+Lee, H. Y., Lee, L., Yoon, Y. J., **Kim, D.**, Gong, J., & Jones, S. (2026). Determinants of perceived transportation barriers in accessing opioid-related services among residents of Alabama's Black Belt. *Social Work in Public Health*. <https://doi.org/10.1080/19371918.2026.2753147>
+
 **Kim, D.**, Beltran, R., Sevillano, L., Cordero, L., Hong, C., Garner, A., Howell, S., & Holloway, I. (2026). Freedom of movement, social support, and psychological wellbeing: Resilience against COVID-19 related loneliness among sexual minority men living in high versus low LGBT acceptance countries. *Journal of Sexual and Gender Diversity in Social Services, 38*(3), 419-442. <https://doi.org/10.1080/29933021.2026.2680113>
 
 Kim, J., Yoon, Y., **Kim, D.**, Lee, J., & Lee, H. Y. (2026). Associations between social technology use and social engagement: A race- and ethnicity-stratified analysis among older adults. *Journal of Social Service Research*. <https://doi.org/10.1080/01488376.2026.2643587>
