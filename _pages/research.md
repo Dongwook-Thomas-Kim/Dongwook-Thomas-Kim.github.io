@@ -32,11 +32,16 @@ Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher educ
 
 ## Manuscripts under Review
 
-**Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. *Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States*. Manuscript under review at *Clinical Infectious Diseases*.
+**Kim, D.**, Harty, J. S., Nwabuzor Ogbonnaya, I., & Messing, J. T. Polyvictimization in child welfare: Latent caregiver profiles integrating intimate partner violence and family functioning indicators. Manuscript under review at *Children and Youth Services Review*.
 
-Lee, H. Y., Lee, L., Yoon, Y. J., **Kim, D.**, Gong, J., & Jones, S. *Determinants of perceived transportation barriers in accessing opioid-related services among residents of Alabama's Black Belt*. Manuscript under review at *Community Mental Health Journal*.
+**Kim, D**. How HIV stigma reshapes health information navigation across illness duration: a path analysis of uncertainty and efficacy. Manuscript under review at *BMC Health Services Research*.
 
-Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. *Social determinants of health and community needs for opioid-related services among rural Alabama residents*. Manuscript under review at *Social Work Research*.
+**Kim, D**. HIV Criminalization Reform in the Deep South: What Louisiana’s ACT 177 Achieved, and What it Still Demands of People Living with HIV. Manuscript under review at *Journal of Public Health Policy*. 
+
+**Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States. Manuscript under review at *Antimicrobial Agents and Chemotherapy*.
+
+Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. Social determinants of health and community needs for opioid-related services among rural Alabama residents. Manuscript under review at *Social Work Research*.
+
 
 ## Selected Conference Proceedings
 
