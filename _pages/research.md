@@ -36,7 +36,7 @@ Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher educ
 
 **Kim, D**. How HIV stigma reshapes health information navigation across illness duration: a path analysis of uncertainty and efficacy. Manuscript under review at *BMC Health Services Research*.
 
-**Kim, D**. HIV Criminalization Reform in the Deep South: What Louisiana’s ACT 177 Achieved, and What it Still Demands of People Living with HIV. Manuscript under review at *Journal of Public Health Policy*. 
+**Kim, D**. HIV Criminalization Reform in the Deep South: What Louisiana’s ACT 177 Achieved, and What It Still Demands of People Living with HIV. Manuscript under review at *AIDS and Behavior*. 
 
 **Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States. Manuscript under review at *Antimicrobial Agents and Chemotherapy*.
 
