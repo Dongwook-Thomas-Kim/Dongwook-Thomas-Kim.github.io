@@ -40,7 +40,7 @@ Lim, J., **Kim, D.**, & Mukama, E. (2019). A study on the impact of teacher educ
 
 **Kim, D.**, Ismail, R., Roberts, F., & Tarr, GAM. Racial and ethnic differences in the determinants of antibiotic use for acute gastroenteritis in the United States. Manuscript under review at *Antimicrobial Agents and Chemotherapy*.
 
-Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. Social determinants of health and community needs for opioid-related services among rural Alabama residents. Manuscript under review at *Social Work Research*.
+Lee, L. H., Yoon, Y. J., **Kim, D.**, Jones, S., & Lee, H. Y. Social determinants of health and community needs for opioid-related services among rural Alabama residents. Manuscript under review at *Journal of the Society for Social Work and Research*.
 
 
 ## Selected Conference Proceedings
